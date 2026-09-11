@@ -1,0 +1,3 @@
+dataset,raw_records,cleaned_records,loaded_records,raw_null_geometries,raw_invalid_geometries,raw_geometry_types,raw_crs
+roads,26111,26111,26111,0,0,LineString:26111,EPSG:4326
+buildings,61854,61847,61847,0,0,"Polygon:61842, Point:7, MultiPolygon:5",EPSG:4326
